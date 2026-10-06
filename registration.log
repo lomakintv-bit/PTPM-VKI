@@ -1,0 +1,24 @@
+2026-10-20 19:02:04,443 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,443 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,444 | INFO | OK | login='jane_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,448 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,452 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,452 | WARNING | FAIL | login='abc', password=***3102f514f96b*** | Некорректный формат логина.
+2026-10-20 19:02:04,452 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:02:04,453 | WARNING | FAIL | login='abc', password=***3102f514f96b*** | Некорректный формат логина.
+2026-10-20 19:02:04,453 | WARNING | FAIL | login='john_doe', password=***5c33570aa75c*** | Нужна заглавная буква.
+2026-10-20 19:02:04,453 | WARNING | FAIL | login='admin', password=***3102f514f96b*** | Логин в чёрном списке.
+2026-10-20 19:02:04,453 | WARNING | FAIL | login=123, password=***3102f514f96b*** | Поле 'login' должно быть строкой.
+2026-10-20 19:02:04,454 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,188 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,189 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,189 | INFO | OK | login='jane_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,194 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,198 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,198 | WARNING | FAIL | login='abc', password=***3102f514f96b*** | Некорректный формат логина.
+2026-10-20 19:29:23,199 | INFO | OK | login='john_doe', password=***3102f514f96b***
+2026-10-20 19:29:23,199 | WARNING | FAIL | login='abc', password=***3102f514f96b*** | Некорректный формат логина.
+2026-10-20 19:29:23,199 | WARNING | FAIL | login='john_doe', password=***5c33570aa75c*** | Нужна заглавная буква.
+2026-10-20 19:29:23,199 | WARNING | FAIL | login='admin', password=***3102f514f96b*** | Логин в чёрном списке.
+2026-10-20 19:29:23,200 | WARNING | FAIL | login=123, password=***3102f514f96b*** | Поле 'login' должно быть строкой.
+2026-10-20 19:29:23,200 | INFO | OK | login='john_doe', password=***3102f514f96b***
